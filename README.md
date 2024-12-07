@@ -16,7 +16,7 @@
 
 Ingreso de  datos en el metodo de potencia. 
 
-Para correr el metodo de potencia, puedes simplemente en donde hay casos de prueba, en especial, caso del libro, modificar la matriz por otra matriz cuadrada de su preferencia, modificar la tolerancia y escoger un vector aleatorio de longitud nx1 que sea diferente del nulo, de lo contrario el codigo podria fallar. Tambien se debe jugar con la tolerancia, en algunos casos cuando tomo la tolerancia muy pequena el codigo puede fallar. 
+Para correr el metodo de potencia, puedes simplemente en donde hay casos de prueba, en especial, caso del libro, modificar la matriz por otra matriz cuadrada de su preferencia, modificar la tolerancia y escoger un vector aleatorio de longitud nx1 que sea diferente del nulo, de lo contrario el codigo podria fallar. Tambien se debe jugar con la tolerancia, en algunos casos cuando tomo la tolerancia muy pequena el codigo puede fallar. Importante tener instalado numpy, en el principio del codigo hay una breve explicacion de como instalarlo en caso de no tenerlo. Se recomienda escoger matrices bien portadas, es decir, matrices  cuyos autovectores generen una base y que no hayan mas de un autovalor deminante.  
 
 Ingreso de datos método descomposición QR.
 
